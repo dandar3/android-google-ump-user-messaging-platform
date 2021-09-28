@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-ump-user-messaging-platform/tags/1.0.0,google-ump-user-messaging-platform,5009c04c7c20001c1e9fa351c878cf8e;https://github.com/dandar3/android-google-ump-user-messaging-platform;https://github.com/dandar3/android-google-ump-user-messaging-platform;branches;tags;trunk;true;f4795f5d-f81a-86e0-2d36-ce57b7db7bff;https://github.com/dandar3/android-google-ump-user-messaging-platform;;false;;;0"/>
+</provider>
+</psf>
